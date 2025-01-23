@@ -27,3 +27,11 @@ The first half (Modules 1 and 2) of this class's homework was completed on a web
 - <b>Rosalind 21:</b> Find the Most Frequent Words with Mismatches in a String
 - <b>Rosalind 22:</b> Find the Reverse Complement of a String
 - <b>Rosalind 23:</b> Find Frequent Words with Mismatches and Reverse Complements
+
+### Multiple Sequence Alignment (MSA)
+
+### BLAST
+
+### Genomic Variant Analysis (GVA)
+
+### Earl Grey Final Project
