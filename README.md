@@ -29,6 +29,7 @@ The first half (Modules 1 and 2) of this class's homework was completed on a web
 - <b>Rosalind 23:</b> Find Frequent Words with Mismatches and Reverse Complements
 
 ### Multiple Sequence Alignment (MSA)
+Multiple sequence alignment (MSA) was performed on 18S ribosomal RNA sequences to identify conserved regions across different species. The analysis included locating G blocks, conserved motifs, and examining sequence variability. Additionally, the P450 gene dataset (P450.fasta) was analyzed to assess the evolutionary relationships and functional significance of P450 enzymes.
 
 ### BLAST
 
