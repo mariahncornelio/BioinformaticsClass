@@ -35,5 +35,6 @@ Multiple sequence alignment (MSA) was performed on 18S ribosomal RNA sequences t
 Protein sequences for Tribolium castaneum (Tcas), Anoplophora glabripennis (Agla), and Leptinotarsa decemlineata (Ldec) were retrieved from the NCBI databse. BLAST sequence analysis was performed on these sequences, focusing on key genes including maleless, mof, msl2, and msl3. The analysis aimed to investigate sequence similarities and functional relationships across the different species. The analysis was done using Python to compare one-way, two-way, and three-way relationships.
 
 ### Genomic Variant Analysis (GVA)
+Genomic variant analysis (GVA) was conducted using both trimmed and untrimmed reads. Genomic Variant Analysis (GVA) is the process of examining genetic data to identify differences or "variants" in DNA sequences. The datasets included the reference sequence NC_012967.1.fasta, its corresponding GenBank file NC_012967.1.gbk, and paired-end reads SRR030257_1.fastq and SRR030257_2.fastq. Due to file size limitations, the data could not be uploaded.
 
 ### Earl Grey Final Project
