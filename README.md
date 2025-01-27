@@ -32,6 +32,7 @@ The first half (Modules 1 and 2) of this class's homework was completed on a web
 Multiple sequence alignment (MSA) was performed on 18S ribosomal RNA sequences to identify conserved regions across different species. The analysis included locating G blocks, conserved motifs, and examining sequence variability. Additionally, the P450 gene dataset (P450.fasta) was analyzed to assess the evolutionary relationships and functional significance of P450 enzymes.
 
 ### BLAST
+Protein sequences for Tribolium castaneum (Tcas), Anoplophora glabripennis (Agla), and Leptinotarsa decemlineata (Ldec) were retrieved from the NCBI databse. BLAST sequence analysis was performed on these sequences, focusing on key genes including maleless, mof, msl2, and msl3. The analysis aimed to investigate sequence similarities and functional relationships across the different species. The analysis was done using Python to compare one-way, two-way, and three-way relationships.
 
 ### Genomic Variant Analysis (GVA)
 
